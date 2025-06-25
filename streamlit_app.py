@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # URLs de la API
-API_BASE_URL = "http://10.17.66.92:5017"
+API_BASE_URL =  "https://chistes-api-2024.loca.lt"
 
 # Archivo para guardar perfiles de usuarios
 USER_PROFILES_FILE = "user_profiles.csv"
